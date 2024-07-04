@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">justDIRHA</string>
+    <string name="password">Mot De Passe</string>
+    <string name="signup">Créer Compte</string>
+    <string name="signin">Se Connecter</string>
+    <string name="reset">Reset</string>
+    <string name="trouble_logging_in">Problème de connexion?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Êtes-vous sûr de vouloir supprimer la tâche?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="confirmation">Tâche complétée!..</string>
+    <string name="sureToMarkAsComplete">Êtes-vous sûr de vouloir marquer cette tâche comme terminée ?</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Félicitations !... Vous avez terminé la tâche avec succès..</string>
+</resources>
